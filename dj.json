@@ -333,5 +333,15 @@
     "Name": "Dragoo",
     "Socials": "https://vrc.dj/dragoo",
     "Link": "https://stream.vrcdn.live/live/dragoo.live.ts"
+  },
+  "77": {
+    "Name": "Bert60hz",
+    "Socials": "https://vrc.dj/bert60hz",
+    "Link": "https://stream.vrcdn.live/live/bert60hz.live.ts"
+  },
+  "78": {
+    "Name": "Shino",
+    "Socials": "https://vrc.dj/shino",
+    "Link": "https://stream.vrcdn.live/live/shinovr.live.ts"
   }
 }
