@@ -378,5 +378,20 @@
     "Name": "ExL",
     "Socials": "https://exil.dev/",
     "Link": "https://www.twitch.tv/exil_dev"
+  },
+  "86": {
+    "Name": "Step-Bro Paz",
+    "Socials": "https://www.youtube.com/@stepbropaz",
+    "Link": "https://stream.vrcdn.live/live/stepbropaz.live.ts"
+  },
+  "87": {
+    "Name": "usbc",
+    "Socials": "https://vrc.dj/usbc",
+    "Link": "https://stream.vrcdn.live/live/usbc.live.ts"
+  },
+  "88": {
+    "Name": "Alterenat",
+    "Socials": "https://soundcloud.com/alterenat-81695811",
+    "Link": "https://www.twitch.tv/alterenataaaa"
   }
 }
