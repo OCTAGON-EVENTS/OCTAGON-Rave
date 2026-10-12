@@ -388,5 +388,15 @@
     "Name": "USBC",
     "Socials": "https://vrc.dj/usbc",
     "Link": "https://stream.vrcdn.live/live/usbc.live.ts"
+  },
+  "88": {
+    "Name": "DarklouXxX AKa Poney",
+    "Socials": "https://soundcloud.com/darklouxxx",
+    "Link": "https://www.twitch.tv/darklouxxxakaponey"
+  },
+  "89": {
+    "Name": "DT",
+    "Socials": "https://soundcloud.com/etozhedt",
+    "Link": "https://stream.vrcdn.live/live/dtexe.live.ts"
   }
 }
