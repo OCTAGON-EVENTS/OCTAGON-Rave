@@ -398,5 +398,15 @@
     "Name": "DT",
     "Socials": "https://soundcloud.com/etozhedt",
     "Link": "https://stream.vrcdn.live/live/dtexe.live.ts"
+  },
+  "90": {
+    "Name": "maximaler unc",
+    "Socials": "https://twitch.tv/giorping",
+    "Link": "https://stream.vrcdn.live/live/unc.live.ts"
+  },
+  "91": {
+    "Name": "Hexenelf",
+    "Socials": "https://soundcloud.com/hexenelf",
+    "Link": "https://stream.vrcdn.live/live/hexenelf.live.ts"
   }
 }
