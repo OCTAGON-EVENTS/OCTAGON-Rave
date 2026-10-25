@@ -37,7 +37,7 @@
   "16": {
     "Name": "Blackdevil Hell",
     "Socials": "",
-    "Link": "https://stream.vrcdn.live/live/moderatewinguy.live.ts "
+    "Link": "https://stream.vrcdn.live/live/moderatewinguy.live.ts"
   },
   "18": {
     "Name": "Hamore",
@@ -423,5 +423,10 @@
     "Name": "ElPleon",
     "Socials": "https://vrc.dj/elpleon",
     "Link": "https://stream.vrcdn.live/live/elpleon.live.ts"
+  },
+  "95": {
+    "Name": "V-TOL",
+    "Socials": "https://linktr.ee/DJVTOL",
+    "Link": "https://stream.vrcdn.live/live/vtol.live.ts"
   }
 }
